@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Lucria/duke.svg?branch=master)](https://travis-ci.org/Lucria/duke)
 # Setting up
 
 **Prerequisites**
